@@ -1,0 +1,136 @@
+{
+    "title": "Geovanni Lopez (Gio) | Portafolio",
+    "description": ", l me¿jor programador de la historia.",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Geovanni Lopez",
+    "skill": "Programador",
+    "location": "Managua, Nicaragua",
+    "media": {
+        "email": "geovannysamuel97@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/Geolopez18",
+        "likedin": "https://linkedin.com/in/geovanni-lópez-79ba50164"
+    },
+    "about": "Amplio dominio de Python para analisis de datos y desarrollo de soluciones tecnicas.",
+    "technologies": [
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JAVASCRIPT"
+        },
+        {
+            "icon": "devicon-php-plain",
+            "name": "PHP"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "badge-check",
+            "title": "Grupo El Chele",
+            "subtitle": "Especialista en soporte tecnico",
+            "description": "Programo software respetable desde un cubiculo.",
+            "date": "2022"
+        },
+        {
+            "icon": "badge-check",
+            "title": "Grupo El Chele",
+            "subtitle": "Analista de soporte tecnico TI",
+            "description": "Programo software respetable desde un cubiculo.",
+            "date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "bar-chart-4",
+            "title": "Sistemas de facturacion y ventas",
+            "subtitle": "Software",
+            "description": "Este programa tiene los modulos de inventarios, ventas, clientes, usuarios y facturas",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JAVASCRIPT"
+                },
+                {
+                    "icon": "devicon-php-plain",
+                    "name": "PHP"
+                }
+            ],
+            "image": "sistema_taller.jpg",
+            "url": "http://tallerjehovajireth.c1.is/taller",
+            "github": "https://github.com/Geolopez18/Sistema-para-taller"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Hackeo Matrix",
+            "subtitle": "Mi obra maestra",
+            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Binario"
+                }
+            ],
+            "image": "/project_2.jpg",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
+        }
+    ],
+    "training": [
+        {
+            "icon": "backpack",
+            "title": "Central West Junior High",
+            "subtitle": "Una escuela",
+            "description": "Aprendí cosas.",
+            "date": "Indeterminado",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Owen Patterson High",
+            "subtitle": "Otra escuela",
+            "description": "Aprendí más cosas.",
+            "date": "Indeterminado",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        }
+    ]
+}
